@@ -1,0 +1,7 @@
+
+This is a module for sparse n-dimensional arrays in Python using dictionaries. The module supports any number of dimensions and any size. It also has all basic operations like adding, subtracting, multiplication, division, mod, pow, printing, sum() etc. Sparse arrays can easily be converted to full NumPy arrays. (NumPy is required)
+
+Run sparray.py to see output of a number of examples on how to use this module.
+
+/Jan Erik Solem
+
